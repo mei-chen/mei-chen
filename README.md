@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on a cognition-management AI project
 - 📫 How to reach me: meichen.mlc [at] gmail.com
 - 💬 Ask me about the latest ML breaking news
-- ⚡ Fun fact: I'm a three-time world handwriting contest winner
+- ⚡ Fun fact: I'm a three-time world handwriting contest winner, which hopefully translates into beautiful code
