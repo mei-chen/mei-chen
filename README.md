@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Mei
 
-- 🔭 I’m currently working on a legal NLP startup 
+- 🔭 I’m currently working at a logistics startup 
 - 👀 I’m interested in how the universe from the macro to the micro
 - 🌱 I’m currently learning about UVC lights
 - 💞️ I’m looking to collaborate on a cognition-management AI project
