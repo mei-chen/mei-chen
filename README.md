@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Mei
 
-- 🔭 I’m currently working as a machine learning engineer at an insurance company, projects include: LLMs and model lineage
+- 🔭 I’m a machine learning engineer with a focus on LLMs and music
 - 👀 I’m interested in how the universe from the macro to the micro
 - 💞️ I’m looking to collaborate on a cognition-management AI project
 - 📫 How to reach me: meichen.mlc [at] gmail.com
